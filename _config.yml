@@ -1,0 +1,25 @@
+title:              The Transfer Blog
+email:              contact@transfer.zip
+description:        "Solving the longest running problem on the web: sending files"
+author:             Robin Karlberg
+baseurl:            "/"
+url:                "https://blog.transfer.zip"
+
+# Social Profiles
+twitter_username:   JigsawClient
+github_username:    robinkarlberg
+facebook_username:  
+instagram_username: go.transfer.zip
+linkedin_username:  #robin-karlberg
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-NLS4N7NYVFX # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
