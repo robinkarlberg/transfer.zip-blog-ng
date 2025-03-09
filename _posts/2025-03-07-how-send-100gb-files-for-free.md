@@ -24,12 +24,13 @@ Quick Share uses WebRTC for peer-to-peer transfer. Files stream directly and are
 #### **1. Visit the site and choose your files**
 
 Go to [Transfer.zip](https://transfer.zip/). Select your files or even a folder. The file name appears in a box once selected.
-![Screenshot of Quick Share showing that the user has picked a 100GB file](/assets/img/quick-share-100g.png){: width="400"}
 
 #### **2. Click send**
 
 After choosing files, hit Send. A QR code and a shareable link appear. The link includes a unique file ID and an encryption key. Transfer.zip never sees the key.
-![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/assets/img/quick-share-progress-1.png)
+
+![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/img/quickshare.png)
+*Screenshot of Quick Share*
 
 #### **3. Scan the QR code or share the link**
 
@@ -38,7 +39,6 @@ Let others scan the QR code or send the link. Devices try to connect peer-to-pee
 #### **4. Wait during the transfer**
 
 Once connected, transfers start. They're in real-time. If someone closes the browser, the transfer stops. This is a Quick Share limit but allows big file sizes. Speed depends on internet connections. Large files need patience!
-![Screenshot of Quick Share showing the 100GB file is being downloaded](/assets/img/quick-share-progress-100g-3.png)
 
 #### **5. Done!**
 
