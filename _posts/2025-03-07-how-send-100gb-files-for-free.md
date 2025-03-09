@@ -29,7 +29,7 @@ Go to [Transfer.zip](https://transfer.zip/). Select your files or even a folder.
 
 After choosing files, hit Send. A QR code and a shareable link appear. The link includes a unique file ID and an encryption key. Transfer.zip never sees the key.
 
-![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/img/quickshare.png)
+![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/img/quickshare.png){:width="100%"}
 *Screenshot of Quick Share*
 
 #### **3. Scan the QR code or share the link**
