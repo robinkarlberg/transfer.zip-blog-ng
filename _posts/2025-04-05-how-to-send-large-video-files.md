@@ -12,7 +12,7 @@ Sending big video files isn’t easy. Most platforms have file size limits:
 - Email attachments max out around 25MB  
 - Discord only allows 10MB (without Nitro)  
 - WeTransfer caps free transfers at 2GB  
-- Google Drive takes ages to upload, and you risk hitting storage limits  
+- Google Drive takes ages to upload, easily wasting precious time
 
 If you're sending videos from your computer, you need a tool that can handle massive files **without compression, without limits, and without stress.**
 
