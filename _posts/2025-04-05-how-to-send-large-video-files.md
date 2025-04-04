@@ -2,7 +2,7 @@
 layout: post
 title: "How to Send Large Video Files: 3 Simple Methods (2025)"
 subtitle: "Need to send a huge video file? Here are the easiest ways to transfer large videos, without limits."
-background: '/img/posts/large-video-transfer.png'
+background: '/img/posts/large-video-transfer.jpg'
 ---
 
 ## Why Large Video Files Are Hard to Share
