@@ -24,7 +24,7 @@ If you're sending videos from your computer, you need a tool that can handle mas
 
 Transfer.zip uses peer-to-peer streaming to transfer video files instantly - right in your browser. No apps. No account. Just scan and send.
 
-![Stylised Image of a phone scanning a QR code on a laptop to start a file transfer.](/img/posts/android-file-transfer-qr.png){:width="100%"}
+![Stylised Image of a phone scanning a QR code on a laptop to start a file transfer.](/img/posts/quick-share-2.png){:width="100%"}
 
 **Pros:**
 
@@ -51,7 +51,7 @@ Transfer.zip uses peer-to-peer streaming to transfer video files instantly - rig
 
 **AirDrop-style file transfer in your browser.**
 
-Snapdrop is a super simple way to send files between devices on the same Wi-Fi network. It’s like AirDrop, but it works cross-platform and entirely in your browser.
+Snapdrop is a super simple way to send files between devices on the same <nobr>Wi-Fi</nobr> network. It’s like AirDrop, but it works cross-platform and entirely in your browser.
 
 **Pros:**
 
