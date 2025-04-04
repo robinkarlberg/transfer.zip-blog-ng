@@ -99,7 +99,7 @@ Send Anywhere lets you transfer files using temporary 6-digit codes. You can sen
 
 ---
 
-## Why Choose Transfer.zip?
+## Why we think you should choose Transfer.zip?
 
 - **No Size Limits:** Send full-length films, raw video footage, or giant 4K files  
 - **Private:** Files are never stored or uploaded to a server  
@@ -110,6 +110,3 @@ Send Anywhere lets you transfer files using temporary 6-digit codes. You can sen
 ## Send Your Video Instantly
 
 👉 **[Try Transfer.zip now](https://transfer.zip)** and stop worrying about file sizes.
-
-Whether you’re sending a 10-minute vlog or a 100GB documentary, Transfer.zip gets it there - fast, free, and secure.
-
