@@ -41,6 +41,8 @@ These secure alternatives help protect your files and credentials.
 
 Best for: Beginners and power users alike
 
+<a href="https://filezilla-project.org/" class="btn btn-primary" target="_blank">Try FileZilla!</a>
+
 ### 2. **Cyberduck (macOS, Windows)**
 
 **Beautiful interface and cloud support.**
@@ -51,6 +53,8 @@ Best for: Beginners and power users alike
 - ❌ No Linux support
 
 Best for: Mac users and those connecting to cloud storage
+
+<a href="https://cyberduck.io/" class="btn btn-primary" target="_blank">Try Cyberduck!</a>
 
 ### 3. **WinSCP (Windows)**
 
@@ -63,6 +67,8 @@ Best for: Mac users and those connecting to cloud storage
 
 Best for: Developers and sysadmins
 
+<a href="https://winscp.net/eng/download.php" class="btn btn-primary" target="_blank">Try WinSCP!</a>
+
 ### 4. **Transmit (macOS)**
 
 **Premium FTP experience for Mac users.**
@@ -74,11 +80,13 @@ Best for: Developers and sysadmins
 
 Best for: Professionals looking for speed and polish
 
+<a href="https://panic.com/transmit/" class="btn btn-primary" target="_blank">Try Transmit!</a>
+
 ---
 
 ## ✅ What to Look for in an FTP Client
 
-- **Protocol support:** FTP is outdated—look for FTPS and SFTP
+- **Protocol support:** FTP is outdated - look for FTPS and SFTP
 - **Usability:** Clean UI and drag-and-drop can save time
 - **Speed:** Efficient uploads/downloads matter with large files
 - **Security:** Ensure encrypted transfers
@@ -90,7 +98,7 @@ Best for: Professionals looking for speed and polish
 
 Need to send a file *without* setting up a server or FTP client?
 
-👉 [Transfer.zip](https://transfer.zip) is a free, secure way to stream large files peer-to-peer via your browser—no setup, no size limits, and no storage involved.
+👉 [Transfer.zip](https://transfer.zip) is a free, secure way to stream large files peer-to-peer via your browser - no setup, no size limits, and no storage involved.
 
 Perfect for quick transfers when FTP feels like too much.
 
@@ -98,7 +106,7 @@ Perfect for quick transfers when FTP feels like too much.
 
 ## Final Thoughts
 
-There’s no one-size-fits-all FTP client—but with the options above, you’re sure to find one that fits your workflow.
+There’s no one-size-fits-all FTP client - but with the options above, you’re sure to find one that fits your workflow.
 
 For fast, secure transfers with zero friction, give [Transfer.zip](https://transfer.zip) a try.
 

@@ -7,11 +7,11 @@ background: '/img/posts/secure-file-transfer.png'
 
 ## Why Secure File Transfer Matters
 
-In 2025, sending files has never been easier—but also never riskier. Whether you're sharing sensitive documents, private videos, or project files, **your data deserves protection**.
+In 2025, sending files has never been easier - but also never riskier. Whether you're sharing sensitive documents, private videos, or project files, **your data deserves protection**.
 
 Cloud platforms often scan files, log metadata, or keep your uploads indefinitely. If you care about privacy, you need **end-to-end security** and minimal third-party exposure.
 
-Below are three reliable, secure methods—each suited for different technical skill levels.
+Below are three reliable, secure methods - each suited for different technical skill levels.
 
 ---
 
@@ -19,7 +19,7 @@ Below are three reliable, secure methods—each suited for different technical s
 
 **Peer-to-peer file sharing with instant encryption.**
 
-Quick-Share on [Transfer.zip](https://transfer.zip) uses browser-based **WebRTC streaming** to send files directly between devices—nothing is ever uploaded or stored.
+Quick-Share on [Transfer.zip](https://transfer.zip) uses browser-based **WebRTC streaming** to send files directly between devices - nothing is ever uploaded or stored.
 
 **How to use Transfer.zip:**
 
@@ -36,7 +36,7 @@ Quick-Share on [Transfer.zip](https://transfer.zip) uses browser-based **WebRTC 
 
 **Best for:** Users who want **maximum privacy** without technical setup.
 
-Try Quick-Share
+<a href="https://transfer.zip/" class="btn btn-primary" target="_blank">Try Transfer.zip Quick-Share!</a>
 
 ---
 
@@ -66,6 +66,8 @@ scp file.txt user@remotehost:/destination/path
 - ❌ Not beginner-friendly
 - ❌ Requires SSH setup on both devices
 
+<a href="https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/" class="btn btn-primary" target="_blank">SCP Tutorial</a>
+
 ---
 
 ### 3. **FTP (File Transfer Protocol)**
@@ -78,7 +80,7 @@ FTP is a legacy  way to browse, upload, and download files using an interactive 
 
 **How it works:**
 
-- Connect to a remote server via FTP client
+- Connect to a remote server via [FTP client](https://blog.transfer.zip/2025/04/08/best-ftp-clients.html)
 - Authenticate using username+password
 - Drag, drop, or script file transfers easily
 
@@ -94,6 +96,8 @@ FTP is a legacy  way to browse, upload, and download files using an interactive 
 - ❌ Requires FTP server
 - ❌ Needs setup and user access control
 
+<a href="https://www.wikihow.com/Use-FTP" class="btn btn-primary" target="_blank">How to use FTP</a>
+
 ---
 
 ## Which One Should You Use?
@@ -108,7 +112,7 @@ FTP is a legacy  way to browse, upload, and download files using an interactive 
 
 ## Keep Your Files Private
 
-If you're sending anything sensitive, you need more than convenience—you need security.
+If you're sending anything sensitive, you need more than convenience - you need security.
 
 👉 **[Try Transfer.zip Quick-Share](https://transfer.zip)** for instant, encrypted, zero-setup file sharing.
 
